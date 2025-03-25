@@ -25,15 +25,15 @@ A feature-rich clipboard manager with custom key bindings, system tray integrati
 
 ### Quick Install
 ```bash
-curl -O https://raw.githubusercontent.com/yourusername/clipboard-manager/main/install_clipboard_manager.sh
-chmod +x install_clipboard_manager.sh
-./install_clipboard_manager.sh
+curl -O https://raw.githubusercontent.com/olumurewa/clipboard-manager/main/install_script.sh
+chmod +x install_script.sh
+./install_script.sh
 ```
 
 ### Manual Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/clipboard-manager.git
+   git clone https://github.com/olumurewa/clipboard-manager.git
    cd clipboard-manager
    ```
 
